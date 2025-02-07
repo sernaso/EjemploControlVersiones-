@@ -27,3 +27,10 @@ Base<-3
 Altura<-2
 Area <- (Base*Altura)/2
 ```
+#Area rectangulo
+
+```{r}
+Base<-3
+Altura<-2
+Area <- Base*Altura
+```
