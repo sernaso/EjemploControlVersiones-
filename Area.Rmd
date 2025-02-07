@@ -34,3 +34,11 @@ Base<-3
 Altura<-2
 Area <- Base*Altura
 ```
+#Area trapecio
+
+```{r}
+b<-2
+B<-3
+H<-2
+Area <- b*B*H/2
+```
